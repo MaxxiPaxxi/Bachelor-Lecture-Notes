@@ -1,0 +1,3 @@
+# PHY307 - Introduction to Subatomic Physics
+
+This course involves Special Relativity, properties of particle interactions, nucleus...
